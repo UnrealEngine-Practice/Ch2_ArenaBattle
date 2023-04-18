@@ -171,7 +171,7 @@
     ├── Binaries/
     |   └── Win64/
     ├──Config/
-    │	  └── ...
+    │   └── ...
     ├── **Content**/
     |   ├── **ArenaBattle**/
     |   |   ├── **Blueprint**/
@@ -188,7 +188,7 @@
     ├── Saved/
     │   └── ...
     ├── Source/
-    │	  └── ...
+    │   └── ...
     ├── MyArenaBattle.sln
     └── MyArenaBattle.uproject
     ```
