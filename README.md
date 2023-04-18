@@ -121,7 +121,8 @@
 
 - 블루프린트 가급적 사용 않고 C++로만 제작
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/957bbf08-431d-4f14-bee7-b60873f91beb/Untitled.png)
+   ![image](https://user-images.githubusercontent.com/60467872/232666314-e31f78f0-4cff-4472-b542-f995238dc00b.png)
+
     
     - 기본 템플릿을 사용하지 않고 직접 제작
     - 두 가지의 카메라 모드를 제공 ( 숄더뷰, 탑뷰 )
@@ -194,6 +195,6 @@
     
 3. 새 Level제작
     
-    BasicTemplate으로 Level 생성
-    ![image](https://user-images.githubusercontent.com/60467872/232666189-27e829b5-e412-4389-93dd-6f02b6361f3d.png)
-    이후 바닥 제거하고 ArenaBattle/Environment/Stage의 메쉬를 0,0,0에 위치시킨다.
+    BasicTemplate으로 Level 생성  
+    ![image](https://user-images.githubusercontent.com/60467872/232666189-27e829b5-e412-4389-93dd-6f02b6361f3d.png)  
+    이후 바닥 제거하고 ArenaBattle/Environment/Stage의 메쉬를 0,0,0에 위치시킨다.  
